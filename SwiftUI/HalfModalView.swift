@@ -1,6 +1,6 @@
 //
 //  HalfModalView.swift
-//  Direct Insurance App
+//  Swift_Extensions
 //
 //  Created by Spilger, Michael on 18.10.20.
 //  Copyright © 2020 SAP. All rights reserved.
