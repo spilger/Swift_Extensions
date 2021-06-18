@@ -1,5 +1,5 @@
 func uploadImage(paramName: String, fileName: String, images: [UIImage]) {
-      let url = URL(string: "https://6b3e3772trial-dev-invoice-backend.cfapps.eu10.hana.ondemand.com/predict-invoice")
+      let url = URL(string: "YOUR_URL")
 
       let boundary = UUID().uuidString
 
